@@ -1,72 +1,46 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raghad Haitham - Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f2f7ff; color:#333; }
-        header { background:#0077b6; color:white; padding:20px 0; text-align:center; }
-        header h1 { margin:0; }
-        header p { margin:5px 0 0 0; font-style:italic; }
-        .container { max-width:800px; margin:20px auto; padding:0 20px; }
-        section { margin-bottom:30px; }
-        h2 { color:#0077b6; border-bottom:2px solid #0077b6; display:inline-block; padding-bottom:5px; }
-        ul { list-style:none; padding:0; }
-        ul li { background:#e0f0ff; margin:5px 0; padding:10px; border-radius:5px; }
-        a { color:#0077b6; text-decoration:none; }
-        a:hover { text-decoration:underline; }
-        footer { text-align:center; padding:10px 0; background:#0077b6; color:white; }
-    </style>
-</head>
-<body>
+<p>Welcome to my page! </br> I'm <b>Raghad Haitham</b>, Fullstack developer student from <img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="13"/> <b>Jordan</b>. </p>
 
-<header>
-    <h1>Raghad Haitham</h1>
-    <p>Software Engineering Student | Aspiring Full Stack Developer</p>
-</header>
+<h3>Things I code with</h3>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-<div class="container">
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#"><b>My First Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haithamraghad40/my-first-project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haithamraghad40/my-first-project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haithamraghad40/my-first-project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haithamraghad40/my-first-project?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
-    <section>
-        <h2>About Me</h2>
-        <p>Hello! I am Raghad Haitham, a Software Engineering student passionate about coding and building web projects. I love learning new technologies and creating practical solutions.</p>
-    </section>
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/haithamraghad40" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raghad-haitham-802690394/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:haithamraghad40@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-    <section>
-        <h2>Skills</h2>
-        <ul>
-            <li>HTML, CSS, JavaScript</li>
-            <li>C++ Programming</li>
-            <li>Full Stack Web Development</li>
-            <li>Git & GitHub</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Projects</h2>
-        <ul>
-            <li><a href="#">Project 1 - Personal Website</a></li>
-            <li><a href="#">Project 2 - ToDo App</a></li>
-            <li><a href="#">Project 3 - Portfolio Website</a></li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Contact</h2>
-        <ul>
-            <li>Email: <a href="mailto:haithamraghad40@gmail.com">haithamraghad40@gmail.com</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/raghad-haitham-802690394/">linkedin.com/in/raghad-haitham</a></li>
-            <li>GitHub: <a href="https://github.com/username">github.com/username</a></li>
-        </ul>
-    </section>
-
-</div>
-
-<footer>
-    &copy; 2025 Raghad Haitham
-</footer>
-
-</body>
-</html>
+<p align="center">This <i>README</i> file is ready to showcase my GitHub profile!</p>
